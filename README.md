@@ -1,5 +1,5 @@
                                                                                                                             
-<h1 align="center">Hi 👋, I'm Karamu Morris</h1>
+<h1 align="center">Hi 👋, I'm Karamu Morris { Lenscasto } </h1>
 <h3 align="center">A passionate Software Engineer from Nairobi City, Kenya</h3>
 
            
